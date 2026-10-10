@@ -30,4 +30,4 @@ Tianle&nbsp;Zeng<sup>1</sup> · Hanjing&nbsp;Ye<sup>1,2</sup> · Bingyi&nbsp;Xia
 - [ ] Release LeadInfra simulation and data-generation tools.
 - [ ] Release LeadBench benchmark and evaluation code.
 
-<p align="center"><sub>🌱 LeadVLA will be fully open-source! We'll gradually release our checkpoints, code, and simulator. Stay tuned! 🤖✨</sub></p>
+<p align="center"><strong>🌱 LeadVLA will be fully open-source! We'll gradually release our checkpoints, code, and simulator. Stay tuned! 🤖✨</strong></p>
