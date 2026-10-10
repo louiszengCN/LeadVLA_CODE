@@ -3,7 +3,7 @@
 <h1>LeadVLA: Learning Follower-Aware<br>Route Execution for Robot Leading</h1>
 
 <p>
-Tianle&nbsp;Zeng<sup>1</sup> · Hanjing&nbsp;Ye<sup>1,2</sup> · Bingyi&nbsp;Xia<sup>1</sup> · Yuchen&nbsp;Zhou<sup>2</sup> · Zibo&nbsp;Zhang<sup>3</sup> · Yufei&nbsp;Huang<sup>2</sup> · Yonggen&nbsp;Ling<sup>2</sup> · Hong&nbsp;Zhang<sup>1</sup>
+Tianle&nbsp;Zeng<sup>1</sup> · Hanjing&nbsp;Ye<sup>2</sup> · Bingyi&nbsp;Xia<sup>1</sup> · Yuchen&nbsp;Zhou<sup>2</sup> · Zibo&nbsp;Zhang<sup>3</sup> · Yufei&nbsp;Huang<sup>2,3</sup> · Yonggen&nbsp;Ling<sup>2,3</sup> · Hong&nbsp;Zhang<sup>1</sup>
 </p>
 
 <p>
